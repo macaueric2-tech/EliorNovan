@@ -1,0 +1,47 @@
+# Elior Novan - Personal Website
+
+This is the personal website for Eric Makau (Elior Novan), an upcoming Kenyan author exploring science in technology and human connections to nature.
+
+## Live Website
+[https://yourusername.github.io/elior-novan-website](https://yourusername.github.io/elior-novan-website)
+
+## Features
+- Responsive design for all devices
+- Modern, nature-inspired color scheme
+- Social media integration
+- Direct contact information
+- Smooth scrolling navigation
+- Interactive elements
+
+## Setup for GitHub Pages
+
+1. **Create a GitHub repository** named `elior-novan-website`
+
+2. **Upload all files** to the repository:
+   - `index.html`
+   - `style.css`
+   - `script.js`
+   - `README.md`
+   - Create `assets/images/` folder and add your profile picture as `profile.jpg`
+
+3. **Enable GitHub Pages**:
+   - Go to repository Settings
+   - Click on "Pages" in the sidebar
+   - Under "Source", select "main" branch
+   - Click "Save"
+   - Your site will be published at `https://yourusername.github.io/elior-novan-website`
+
+4. **Customize**:
+   - Replace `yourusername` with your actual GitHub username
+   - Update social media links with your actual profile URLs
+   - Add your profile image to `assets/images/profile.jpg`
+
+## Contact Information
+- **Name:** Eric Makau (Elior Novan)
+- **Business:** Elior Novan
+- **Phone/WhatsApp:** +254 713 868 382 / +254 753 051 262
+- **Email:** erickmakau19@gmail.com
+- **Social Media:** @EliorNovanTr on all platforms
+
+## License
+© 2024 Eric Makau. All rights reserved.
